@@ -9,7 +9,7 @@
 ## Demo
 
 ### Mobile Canvas App Preview
-[![Asset Quick Scan Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Asset Quick Scan Demo](https://img.youtube.com/vi/uJ7aCcpy1ts/0.jpg)](https://www.youtube.com/watch?v=uJ7aCcpy1ts)
 
 *Click to watch the Asset Quick Scan mobile app in action*
 
